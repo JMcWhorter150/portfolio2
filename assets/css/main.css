@@ -2102,6 +2102,10 @@ input, select, textarea {
 						font-size: 4em;
 					}
 
+					#main > #projects img {
+						width: 100%;
+					}
+
 					#main > .panel .row p {
 						text-align: center;
 					}
@@ -2112,6 +2116,15 @@ input, select, textarea {
 					}
 
 					#main > .panel i:hover {
+						color: #000;
+					}
+
+					#main > #contact ul li a {
+						text-decoration: none;
+						color: inherit;
+					}
+
+					#main > #contact ul li a:hover {
 						color: #000;
 					}
 
